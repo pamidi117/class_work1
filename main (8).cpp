@@ -43,6 +43,7 @@ while (hits < 4) {
     cout << "Miss\n\n";
   }
 
+
   // Count how many turns the player has taken
   numberOfTurns++;
 }
